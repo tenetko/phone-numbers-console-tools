@@ -2,6 +2,7 @@ import sys
 from unittest.mock import patch
 
 import pandas as pd
+
 from beautifier.beautify import PhoneNumbersBeautifier
 
 

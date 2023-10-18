@@ -8,22 +8,8 @@ from pyquery.pyquery import PyQuery
 
 
 class PhoneNumbersExtractor:
-    MONTH_CONVERTER = {
-        "января": "January",
-        "февраля": "February",
-        "марта": "March",
-        "апреля": "April",
-        "мая": "May",
-        "июня": "June",
-        "июля": "July",
-        "августа": "August",
-        "сентября": "September",
-        "октября": "October",
-        "ноября": "November",
-        "декабря": "December",
-    }
-
-    DATE_REGEX = re.compile(r"\d{2}\.\d{2}\.\d{4}\s\d{2}:\d{2}:\d{2}")
+    DATE_REGEX_WITH_SECONDS = re.compile(r"\d{2}\.\d{2}\.\d{4}\s\d{2}:\d{2}:\d{2}")
+    DATE_REGEX_WITHOUT_SECONDS = re.compile(r"\d{2}\.\d{2}\.\d{4}\s\d{2}:\d{2}")
 
     def parse_files(self) -> List:
         phone_numbers = []
@@ -80,15 +66,23 @@ class PhoneNumbersExtractor:
 
     def extract_date_from_file(self, text_elements: PyQuery):
         for e in text_elements:
+            operation_datetime = ""
             text = e.text
-            match = self.DATE_REGEX.match(text)
-            if match:
-                operation_datetime = self.format_operation_datetime(text.strip())
+            match_with_seconds = self.DATE_REGEX_WITH_SECONDS.match(text)
+            match_without_seconds = self.DATE_REGEX_WITHOUT_SECONDS.match(text)
+            if match_with_seconds:
+                operation_datetime = self.format_operation_datetime_with_seconds(text.strip())
+            elif match_without_seconds:
+                operation_datetime = self.format_operation_datetime_without_seconds(text.strip())
 
-                return operation_datetime
+            return operation_datetime
 
-    def format_operation_datetime(self, dt: str) -> str:
+    def format_operation_datetime_with_seconds(self, dt: str) -> str:
         dt_parsed = datetime.strptime(dt, "%d.%m.%Y %H:%M:%S")
+        return datetime.strftime(dt_parsed, "%Y-%m-%d %H:%M:%S")
+
+    def format_operation_datetime_without_seconds(self, dt: str) -> str:
+        dt_parsed = datetime.strptime(dt, "%d.%m.%Y %H:%M")
         return datetime.strftime(dt_parsed, "%Y-%m-%d %H:%M:%S")
 
     def run(self) -> None:
