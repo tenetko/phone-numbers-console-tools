@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "phone-reports-quotas-filter"
+version = "0.1.0"
+description = ""
+authors = ["Michael Tenetko <tenetko@users.noreply.github.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "phone_reports_quotas_filter"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.1.0"
+openpyxl = "^3.1.2"
+black = "^23.9.1"
+isort = "^5.12.0"
+pytest = "^7.4.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

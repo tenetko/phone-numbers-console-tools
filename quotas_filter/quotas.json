@@ -1,0 +1,7200 @@
+{
+  "Республика Хакасия": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 90
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 4
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 16
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 22
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 16
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 4
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 12
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 20
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 16
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 26
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 28
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 36
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 54
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 49
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 12
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 9
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 20
+    }
+  },
+  "Архангельская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 88
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 10
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 22
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 12
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 16
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 0
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 28
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 22
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 38
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 28
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 60
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 26
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 4
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 30
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 28
+    }
+  },
+  "Алтайский край": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 8
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 8
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 0
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 6
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 2
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    }
+  },
+  "Белгородская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 31
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 11
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 18
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 0
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 29
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 29
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 2
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 16
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 15
+    }
+  },
+  "Брянская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 37
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 5
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 14
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 4
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 19
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 0
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 14
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 23
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 14
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 10
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 18
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 9
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    }
+  },
+  "Новгородская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 89
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 9
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 21
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 0
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 7
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 25
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 10
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 18
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 30
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 24
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 17
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 48
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 41
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 27
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 6
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 36
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 20
+    }
+  },
+  "Приморский край": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 110
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 4
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 8
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 7
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 27
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 16
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 22
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 13
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 13
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 11
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 35
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 29
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 35
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 46
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 64
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 48
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 33
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 23
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 6
+    }
+  },
+  "Владимирская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 63
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 12
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 19
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 13
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 12
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 7
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 31
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 0
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 25
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 38
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 25
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 19
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 12
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 5
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 27
+    }
+  },
+  "Волгоградская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 33
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 3
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 4
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 16
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 17
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 33
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 0
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 15
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 18
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    }
+  },
+  "Вологодская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 86
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 5
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 25
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 15
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 15
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 12
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 30
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 14
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 30
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 42
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 44
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 25
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 44
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 17
+    }
+  },
+  "Воронежская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 11
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 4
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 7
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 11
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 0
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 5
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 3
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 3
+    }
+  },
+  "Свердловская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 6
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 6
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 0
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 1
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Мотив": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 6
+    }
+  },
+  "Республика Марий Эл": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 122
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 8
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 5
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 22
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 23
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 12
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 10
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 13
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 42
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 34
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 33
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 55
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 67
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 63
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 59
+    }
+  },
+  "Удмуртская Республика": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 60
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 9
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 12
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 5
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 12
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 5
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 4
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 14
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 24
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 9
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 13
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 38
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 22
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 41
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 20
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    }
+  },
+  "Иркутская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 56
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 8
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 20
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 7
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 5
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 4
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 28
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 12
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 12
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 32
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 24
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 1
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 4
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 51
+    }
+  },
+  "Республика Татарстан": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 18
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 5
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 11
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 2
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 16
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 18
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 0
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 1
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 1
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 4
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Летай": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 13
+    }
+  },
+  "Калининградская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 61
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 5
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 15
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 11
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 14
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 11
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 20
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 5
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 25
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 31
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 30
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 30
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 22
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 6
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 3
+    }
+  },
+  "Калужская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 65
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 11
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 19
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 8
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 30
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 14
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 13
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 38
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 27
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 38
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 13
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 5
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 9
+    }
+  },
+  "Кемеровская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 47
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 3
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 12
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 14
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 12
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 6
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 15
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 26
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 21
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 8
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 5
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 4
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 30
+    }
+  },
+  "Кировская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 47
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 6
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 13
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 7
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 15
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 5
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 19
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 1
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 22
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 24
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 23
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 23
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 9
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 15
+    }
+  },
+  "Костромская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 91
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 6
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 9
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 14
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 23
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 19
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 1
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 8
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 11
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 20
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 32
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 27
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 12
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 52
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 39
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 38
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 30
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 13
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 10
+    }
+  },
+  "Краснодарский край": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 22
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 0
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 26
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 26
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 0
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 22
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 2
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    }
+  },
+  "Красноярский край": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 20
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 7
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 2
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 0
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 8
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 9
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 4
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 7
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 13
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 3
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 3
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 14
+    }
+  },
+  "Курская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 53
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 2
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 9
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 8
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 29
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 5
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 11
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 37
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 16
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 21
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 8
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 24
+    }
+  },
+  "Липецкая область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 45
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 2
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 18
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 5
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 7
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 4
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 9
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 7
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 25
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 13
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 32
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 7
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 15
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 5
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 18
+    }
+  },
+  "Москва и Московская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 191
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 7
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 60
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 18
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 30
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 16
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 46
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 14
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 67
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 34
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 76
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 81
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 110
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 54
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 22
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 99
+    },
+    "Yota": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 16
+    }
+  },
+  "Мурманская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 86
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 6
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 30
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 3
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 12
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 24
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 36
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 11
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 15
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 60
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 26
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 29
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 7
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 39
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 11
+    }
+  },
+  "Нижегородская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 32
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 9
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 15
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 5
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 24
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 29
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 3
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 32
+    }
+  },
+  "Новосибирская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 17
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 6
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 8
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 0
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 14
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 14
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 3
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 17
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    }
+  },
+  "Омская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 44
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 3
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 16
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 8
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 19
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 0
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 17
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 27
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 17
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 21
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 23
+    }
+  },
+  "Орловская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 67
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 4
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 9
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 14
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 14
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 14
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 12
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 18
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 23
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 0
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 26
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 41
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 26
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 19
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 19
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 12
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 17
+    }
+  },
+  "Оренбургская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 44
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 9
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 18
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 8
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 27
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 0
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 9
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 35
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 9
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 19
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 3
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 22
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    }
+  },
+  "Пензенская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 49
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 7
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 17
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 4
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 3
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 11
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 6
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 1
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 24
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 15
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 9
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 25
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 24
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 7
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 29
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 14
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    }
+  },
+  "Пермский край": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 42
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 11
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 19
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 3
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 30
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 2
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 7
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 33
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 9
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 3
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 39
+    }
+  },
+  "Республика Карелия": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 105
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 3
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 6
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 16
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 20
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 26
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 19
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 19
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 26
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 15
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 45
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 45
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 60
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 42
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 5
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 39
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 19
+    }
+  },
+  "Камчатский край": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 183
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 7
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 11
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 22
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 40
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 26
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 31
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 20
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 26
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 29
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 51
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 46
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 57
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 80
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 103
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 75
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 53
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 25
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 30
+    }
+  },
+  "Псковская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 70
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 6
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 22
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 9
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 6
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 14
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 28
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 15
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 13
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 42
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 28
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 55
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 3
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 6
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 6
+    }
+  },
+  "Ростовская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 33
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 8
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 21
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 0
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 29
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 29
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 4
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 5
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 2
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 4
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 22
+    }
+  },
+  "Рязанская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 56
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 8
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 9
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 9
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 19
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 6
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 5
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 17
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 28
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 0
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 11
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 45
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 11
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 37
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 9
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 10
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    }
+  },
+  "Ямало-Ненецкий АО": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 136
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 10
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 29
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 18
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 27
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 19
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 17
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 16
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 39
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 37
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 44
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 55
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 81
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 32
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 13
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 48
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 43
+    }
+  },
+  "Самарская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 48
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 9
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 24
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 0
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 33
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 7
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 8
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 33
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 15
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 8
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 37
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 4
+    }
+  },
+  "Санкт-Петербург и Ленинградская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 359
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 18
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 19
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 54
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 86
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 30
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 106
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 20
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 26
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 72
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 105
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 50
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 132
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 177
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 182
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 159
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 48
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 88
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 64
+    }
+  },
+  "Республика Мордовия": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 44
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 10
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 14
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 8
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 12
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 24
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 20
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 10
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 12
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 22
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    }
+  },
+  "Саратовская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 34
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 5
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 20
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 0
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 25
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 0
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 11
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 24
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 10
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 4
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 7
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 22
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 1
+    }
+  },
+  "Смоленская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 55
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 9
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 17
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 6
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 9
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 10
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 26
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 4
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 15
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 36
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 19
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 25
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 10
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 4
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 16
+    }
+  },
+  "Республика КОМИ": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 97
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 9
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 23
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 3
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 25
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 14
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 21
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 2
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 32
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 17
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 46
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 34
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 63
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 59
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 5
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 33
+    }
+  },
+  "Тамбовская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 23
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 10
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 5
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 4
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 15
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 19
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 4
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 15
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 9
+    }
+  },
+  "Тверская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 57
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 6
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 9
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 14
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 15
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 4
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 9
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 20
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 24
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 0
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 13
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 44
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 13
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 25
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 18
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 3
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 11
+    }
+  },
+  "Томская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 33
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 8
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 27
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 0
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 35
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 35
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 0
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 20
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 3
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 10
+    }
+  },
+  "Тульская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 74
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 4
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 7
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 10
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 27
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 0
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 10
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 14
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 34
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 9
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 17
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 48
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 26
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 10
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 29
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 9
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 26
+    }
+  },
+  "Тюменская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 31
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 7
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 18
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 6
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 25
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 31
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 0
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 13
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 3
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 15
+    }
+  },
+  "Республика Бурятия": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 99
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 8
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 9
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 9
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 32
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 20
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 18
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 17
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 41
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 3
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 38
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 58
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 41
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 33
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 16
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 50
+    }
+  },
+  "Ульяновская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 52
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 5
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 6
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 7
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 10
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 11
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 12
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 12
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 17
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 23
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 29
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 6
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 33
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 13
+    }
+  },
+  "Ханты-Мансийский АО": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 52
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 7
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 9
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 10
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 16
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 3
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 7
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 17
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 25
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 0
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 10
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 42
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 10
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 15
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 18
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 19
+    }
+  },
+  "Республика Чувашия": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 38
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 1
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 9
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 16
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 6
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 0
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 6
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 17
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 15
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 6
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 32
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 18
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 20
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    }
+  },
+  "Челябинская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 50
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": ""
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 11
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": ""
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 20
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 15
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 5
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 0
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 31
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 0
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 20
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 31
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 19
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 1
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 49
+    }
+  },
+  "Сахалинская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 165
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 8
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 8
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 14
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 30
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 28
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 32
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 15
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 30
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 22
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 38
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 43
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 62
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 60
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 105
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 78
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 26
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 43
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 18
+    }
+  },
+  "Курганская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 69
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 6
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 12
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 11
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 17
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 9
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 6
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 17
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 29
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 8
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 15
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 46
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 23
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 29
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 31
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 9
+    }
+  },
+  "Ивановская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 115
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 1
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 12
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 14
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 33
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 5
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 16
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 16
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 18
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 15
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 45
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 21
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 34
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 60
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 55
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 25
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 34
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 30
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 26
+    }
+  },
+  "Ярославская область": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 88
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 2
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 10
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 12
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 27
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": ""
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 15
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": ""
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 13
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 14
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 37
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 9
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 28
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 51
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 37
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 28
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 29
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 13
+    },
+    "Tele2": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 18
+    }
+  },
+  "Республика Алтай": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 170
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 11
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 18
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 18
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 25
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 29
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 38
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 10
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 21
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 29
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 43
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 39
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 59
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 72
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 98
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 109
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 39
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 22
+    }
+  },
+  "Хабаровский край": {
+    "": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 175
+    },
+    "Женский 16-20": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 7
+    },
+    "Мужской 16-20": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 20,
+      "balance": 13
+    },
+    "Женский 21-35": {
+      "gender": "Женский",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 16
+    },
+    "Мужской 21-35": {
+      "gender": "Мужской",
+      "age_from": 21,
+      "age_to": 35,
+      "balance": 38
+    },
+    "Женский 36-45": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 29
+    },
+    "Мужской 36-45": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 45,
+      "balance": 31
+    },
+    "Женский 46-55": {
+      "gender": "Женский",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 21
+    },
+    "Мужской 46-55": {
+      "gender": "Мужской",
+      "age_from": 46,
+      "age_to": 55,
+      "balance": 20
+    },
+    "Группа Женский 16-20 + 21-35": {
+      "gender": "Женский",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 23
+    },
+    "Группа Мужской 16-20 + 21-35": {
+      "gender": "Мужской",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 51
+    },
+    "Группа Женский 36-45 + 46-55": {
+      "gender": "Женский",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 50
+    },
+    "Группа Мужской 36-45 + 46-55": {
+      "gender": "Мужской",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 51
+    },
+    "Группа 16-20 + 21-35": {
+      "gender": "",
+      "age_from": 16,
+      "age_to": 35,
+      "balance": 74
+    },
+    "Группа 36-45 + 46-55": {
+      "gender": "",
+      "age_from": 36,
+      "age_to": 55,
+      "balance": 101
+    },
+    "МТС": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 110
+    },
+    "Билайн": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 65
+    },
+    "Мегафон": {
+      "gender": "",
+      "age_from": "",
+      "age_to": "",
+      "balance": 0
+    }
+  }
+}
